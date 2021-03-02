@@ -1,0 +1,62 @@
+.dialogs {
+    border-right: 3px solid rgb(91, 172, 91);
+    box-sizing: border-box;
+    width: 40%;
+    float: left;
+}
+.users li {
+    margin-bottom: 1em;
+    color: rgb(122, 149, 153);
+    font-size: 120%;
+}
+.conversation {
+    box-sizing: border-box;
+    padding: 1em;
+    width: 60%;
+    float: left;
+}
+.conversation img {
+    width: 90px;
+}
+.conversation article {
+    overflow: hidden;
+}
+.user{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.users a {
+    color: rgb(122, 149, 153);
+    text-decoration: none;
+}
+.users .active {
+    color: rgb(91, 172, 91);
+    font-weight: bold;
+}
+.userText{
+    width: 75%;
+    float: left;
+}
+
+.textareaNews {
+    border: 0;
+    background-color: rgb(184, 228, 184);
+    width: 98%;
+    height: 70px;
+    padding: 1em;
+    outline: none;
+}
+.inputNews {
+    width: 80px;
+    height: 40px;
+    border: 3px solid rgb(91, 172, 91);
+    background-color: white;
+    float: right;
+    margin: 0.5em;
+    outline: none;
+}
+.inputNews:hover {
+    color: white;
+    background-color: rgb(91, 172, 91);
+}

@@ -1,0 +1,22 @@
+.item {
+    background-color: white;
+    overflow: hidden;
+    padding: 1em;
+    position: relative;
+    margin-bottom: 1em;
+}
+.item img {
+    width: 80px;
+    float: left;
+}
+.item section {
+    position: absolute;
+    top: 0;
+    left: 15%;
+}
+.item section h3 {
+    color: rgb(91, 172, 91);
+}
+.item section span {
+    color: rgb(184, 228, 184);
+}

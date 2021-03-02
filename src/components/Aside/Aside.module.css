@@ -1,0 +1,19 @@
+.aside {
+    grid-area: a;
+    background-color: #5bac5b;
+    padding: 1em;
+    color: white;
+}
+.item li {
+    color: white;
+    margin-bottom: 0.5em;
+    font-size: 120%;
+    list-style: none;
+}
+.item a {
+    color: white;
+    text-decoration: none;
+}
+.item .active {
+    color:rgb(184, 228, 184);
+}

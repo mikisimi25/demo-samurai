@@ -1,0 +1,29 @@
+.banner {
+    height: 250px;
+    margin-bottom: 2em;
+    overflow: hidden;
+}
+.banner img {
+    width: 100%;
+}
+.profileInfo {
+    border-radius: 15% 5% 15% 5%;
+    padding: 1em;
+    overflow: hidden;
+    background-color: white;
+    position: relative;
+    height: 150px;
+}
+.profileInfo div {
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+.profileInfo img {
+    border-radius: 100%;
+    width: 150px;
+    float: left;
+}
+.profileInfo li{
+    list-style: none;
+}
