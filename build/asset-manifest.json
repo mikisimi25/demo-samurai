@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/demo-samurai/static/css/main.48f6ca40.chunk.css",
+    "main.js": "/demo-samurai/static/js/main.89dbc988.chunk.js",
+    "main.js.map": "/demo-samurai/static/js/main.89dbc988.chunk.js.map",
+    "runtime-main.js": "/demo-samurai/static/js/runtime-main.7c0c146f.js",
+    "runtime-main.js.map": "/demo-samurai/static/js/runtime-main.7c0c146f.js.map",
+    "static/js/2.9f35e30f.chunk.js": "/demo-samurai/static/js/2.9f35e30f.chunk.js",
+    "static/js/2.9f35e30f.chunk.js.map": "/demo-samurai/static/js/2.9f35e30f.chunk.js.map",
+    "static/css/3.259cf908.chunk.css": "/demo-samurai/static/css/3.259cf908.chunk.css",
+    "static/js/3.5a32b0ba.chunk.js": "/demo-samurai/static/js/3.5a32b0ba.chunk.js",
+    "static/js/3.5a32b0ba.chunk.js.map": "/demo-samurai/static/js/3.5a32b0ba.chunk.js.map",
+    "static/css/4.9f68a5d1.chunk.css": "/demo-samurai/static/css/4.9f68a5d1.chunk.css",
+    "static/js/4.fa5c31e2.chunk.js": "/demo-samurai/static/js/4.fa5c31e2.chunk.js",
+    "static/js/4.fa5c31e2.chunk.js.map": "/demo-samurai/static/js/4.fa5c31e2.chunk.js.map",
+    "static/js/5.c329362c.chunk.js": "/demo-samurai/static/js/5.c329362c.chunk.js",
+    "static/js/5.c329362c.chunk.js.map": "/demo-samurai/static/js/5.c329362c.chunk.js.map",
+    "index.html": "/demo-samurai/index.html",
+    "static/css/3.259cf908.chunk.css.map": "/demo-samurai/static/css/3.259cf908.chunk.css.map",
+    "static/css/4.9f68a5d1.chunk.css.map": "/demo-samurai/static/css/4.9f68a5d1.chunk.css.map",
+    "static/css/main.48f6ca40.chunk.css.map": "/demo-samurai/static/css/main.48f6ca40.chunk.css.map",
+    "static/js/2.9f35e30f.chunk.js.LICENSE.txt": "/demo-samurai/static/js/2.9f35e30f.chunk.js.LICENSE.txt",
+    "static/media/loading.565a6944.svg": "/demo-samurai/static/media/loading.565a6944.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c0c146f.js",
+    "static/js/2.9f35e30f.chunk.js",
+    "static/css/main.48f6ca40.chunk.css",
+    "static/js/main.89dbc988.chunk.js"
+  ]
+}

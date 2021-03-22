@@ -17,7 +17,6 @@ import { withSuspense } from 'hoc/withSuspense';
 
 const DialogsContainer = lazy(() => import('./components/Dialogs/DialogsContainer'));
 const ProfileContainer = lazy(() => import('./components/Profile/ProfileContainer'));
-
 class App extends Component {
   componentDidMount() {
     this.props.initializeApp();
