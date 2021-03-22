@@ -2,11 +2,11 @@ import React from 'react';
 import Paginator from '../common/Paginator/Paginator';
 import User from './User';
 
-let Users = ({currentPage, setUsersTotalCount, pageSize, onPageChanged, users, ...props }) => {
+let Users = ({currentPage, totalUsersCount, pageSize, onPageChanged, users, ...props }) => {
 
     return (
         <React.Fragment>
-            <Paginator currentPage={currentPage} onPageChanged={onPageChanged} setUsersTotalCount={setUsersTotalCount} pageSize={pageSize} />
+                <Paginator currentPage={currentPage} onPageChanged={onPageChanged} totalItemsCount={totalUsersCount} pageSize={pageSize} />
 
             <section>
                 {
