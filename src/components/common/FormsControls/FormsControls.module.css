@@ -1,5 +1,7 @@
 .formControl {
-
+    padding: 0!important;
+    margin: 0!important;
+    position: inherit!important;
 }
 .formControl.error input,
 .formControl.error textarea {
